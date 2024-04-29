@@ -1,6 +1,6 @@
-package services;
+package com.william.Estudiantes.services;
 
-import entities.Estudiantes;
+import com.william.Estudiantes.entities.Estudiantes;
 
 import java.util.List;
 

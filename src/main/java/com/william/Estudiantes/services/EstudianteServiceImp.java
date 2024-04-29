@@ -1,7 +1,7 @@
-package services;
+package com.william.Estudiantes.services;
 
-import dao.EstudiantesDao;
-import entities.Estudiantes;
+import com.william.Estudiantes.dao.EstudiantesDao;
+import com.william.Estudiantes.entities.Estudiantes;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.List;

@@ -1,4 +1,4 @@
-package entities;
+package com.william.Estudiantes.entities;
 
 import jakarta.persistence.*;
 

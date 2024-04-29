@@ -1,6 +1,6 @@
-package dao;
+package com.william.Estudiantes.dao;
 
-import entities.Estudiantes;
+import com.william.Estudiantes.entities.Estudiantes;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;

@@ -1,9 +1,9 @@
-package controllers;
+package com.william.Estudiantes.controllers;
 
-import entities.Estudiantes;
+import com.william.Estudiantes.entities.Estudiantes;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import services.EstudianteService;
+import com.william.Estudiantes.services.EstudianteService;
 
 import java.util.List;
 
