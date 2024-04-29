@@ -1,0 +1,1 @@
+insert into estudiantes (nombre, fechaDeNacimiento, ciclo, carrera) values ('Luis Hernandez', '10-10-2024', 4, 'Administracion');
